@@ -1,4 +1,3 @@
-readme_content = """
 # ⚽ Football Match Events – Data Analysis Project
 
 ## 📌 Overview
