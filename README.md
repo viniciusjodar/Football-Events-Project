@@ -11,7 +11,7 @@ This project explores real football match event data from the **top 5 European l
 
 The dataset used is `events.csv` (available from Kaggle), which contains over **900,000 rows** of detailed football events.  
 Each row represents an action in a match, such as passes, goals, fouls, and cards.
-
+https://www.kaggle.com/datasets/secareanualin/football-events?select=events.csv
 **Key columns:**
 
 - `event_type`: Type of event (e.g., goal, foul, card)
